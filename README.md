@@ -18,7 +18,7 @@ If you have any questions regarding the proper use of these items, please consul
 
 1. Clean and prepare your work surface per its documentation.
 
-1. Gather the following items on the work surface so they are easily available: 
+2. Gather the following items on the work surface so they are easily available: 
 	* butter knife
 	* plate
 	* jar of jelly
@@ -34,23 +34,23 @@ If you have any questions regarding the proper use of these items, please consul
 ## Construction
 1. Remove 2 slices of bread from the opened package and place on the plate, one slice next to the other, so that each slice has one of the sides with largest area are facing up.
 
-1. Use the butter knife to remove roughly 2 tablespoons of peanut butter through the opening at the top of the jar. 
+2. Use the butter knife to remove roughly 2 tablespoons of peanut butter through the opening at the top of the jar. 
 	* The amount is variable based on the peanut butter and the tastes of the user, but a dollop that will easily stay on one-half of the blade of the knife is often sufficient.
 
-1. Take the knife that is now carrying peanut butter over to the bread that is on your plate. Chose a convenient slice of bread, and orient the knife so that the peanut butter is towards that slice. 
+3. Take the knife that is now carrying peanut butter over to the bread that is on your plate. Chose a convenient slice of bread, and orient the knife so that the peanut butter is towards that slice. 
 
-1. Making sure to pay attention to any best practices from the butter knife documentation, evenly spread the peanut butter on the top side of the chosen slice of bread. 
+4. Making sure to pay attention to any best practices from the butter knife documentation, evenly spread the peanut butter on the top side of the chosen slice of bread. 
 
-1. Again using the knife, remove roughly 2 tablespoons of jelly through the opening at the top of the jar of jelly
+5. Again using the knife, remove roughly 2 tablespoons of jelly through the opening at the top of the jar of jelly
 	* The jelly may be less likely to stick to the knife than the peanut butter. If you are unable to use the knife to remove the total desired amount of jelly in one attempt, consider using the optional spoon to move the jelly to the remaining slice of bread
 
-1. Take the knife that is now carrying jelly over to the bread that is on your plate. Chose the remaining slice of bread, and orient the knife so that the jelly is towards that slice.
+6. Take the knife that is now carrying jelly over to the bread that is on your plate. Chose the remaining slice of bread, and orient the knife so that the jelly is towards that slice.
 
-1. Making sure to pay attention to any best practices from the butter knife documentation, evenly spread the jelly on the top side of the remaining slice of bread.
+7. Making sure to pay attention to any best practices from the butter knife documentation, evenly spread the jelly on the top side of the remaining slice of bread.
 
-1. Set aside the knife
+8. Set aside the knife
 
-1. Stack the 2 slices of bread such that the sides containing the peanut butter and jelly are in complete contact.
+9. Stack the 2 slices of bread such that the sides containing the peanut butter and jelly are in complete contact.
 
 **Congratulations** you now have a peanut butter and jelly sandwich.
 
