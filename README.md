@@ -32,7 +32,7 @@ If you have any questions regarding the proper use of these items, please consul
 4.  Open the container of sliced bread
 
 ## Construction
-1. Remove 2 slices of bread from the opened package and place on the plate, one slice next to the other, so that each slice has one of the sides with largest area are facing up.
+1. Remove 2 slices of bread from the opened package and place on the plate, one slice next to the other, so that each slice has one of the sides with largest area facing up.
 
 2. Use the butter knife to remove roughly 2 tablespoons of peanut butter through the opening at the top of the jar. 
 	* The amount is variable based on the peanut butter and the tastes of the user, but a dollop that will easily stay on one-half of the blade of the knife is often sufficient.
